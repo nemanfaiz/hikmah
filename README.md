@@ -4,7 +4,9 @@ Hikmah Project
 
 SETUP:
 git clone git@github.com:nemanfaiz/hikmah.git
+
 cd hikmah/
+
 python3 -venv venv/
 
 MAC Users => . venv/bin/activate
